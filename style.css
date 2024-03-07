@@ -1,0 +1,27 @@
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+.raw{
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.article{
+    border: 1px solid rgb(136, 131, 131);
+    border-radius: 10px;
+    padding: 20px;
+    width: 33%;
+}
+
+.W-50{
+    width: 50%;
+}
